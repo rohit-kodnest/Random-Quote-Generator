@@ -1,0 +1,5 @@
+{
+    "name": "random-quote-generator",
+    "version": "1.0.0",
+    "description": "A web application that generates random quotes on button click."
+}
